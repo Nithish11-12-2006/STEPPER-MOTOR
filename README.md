@@ -70,6 +70,10 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+# clockwise:
+![clockwise_stepper](https://github.com/user-attachments/assets/900ffd1f-c631-40a1-a73e-ba8e4dd68968)
+# Anti-clockwise:
+![anticlockwise_stepper](https://github.com/user-attachments/assets/32ffb4fc-45f0-4faa-857b-a9314713168b)
 
 ## RESULT
 
